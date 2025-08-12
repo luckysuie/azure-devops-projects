@@ -16,9 +16,9 @@ sudo apt install tree
 ```bash
 sudo apt update
 wget https://dlcdn.apache.org/maven/maven-3/3.8.9/binaries/apache-maven-3.8.9-bin.tar.gz    
-tar -xvzf apache-maven-3.9.9-bin.tar.gz
+tar -xvzf apache-maven-3.8.9-bin.tar.gz
 ls
-mv apache-maven-3.9.9 maven
+mv apache-maven-3.8.9 maven
 cd maven
 pwd
 cd 
